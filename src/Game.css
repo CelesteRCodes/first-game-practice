@@ -1,0 +1,10 @@
+.pasture-wrapper {
+  background-color: green;
+  height: 400px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.cow-player-icon {
+  position: relative;
+}
